@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImpressaoWebNoAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="imprimir_string">Imprimir</string>
+</resources>
